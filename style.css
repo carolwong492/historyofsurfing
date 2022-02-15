@@ -1,0 +1,38 @@
+h1 {
+ text-align: center;
+  font-family: "Festive", sans-serif;
+}
+
+h2 {
+  font-size: 150%;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: greenyellow;
+}
+
+h3 {
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: red;
+}
+
+body {
+  background-image: url("https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2018/08/thumb_720_450_dreamstime_xl_108724826.jpg");
+  font-family: Pacifico, sans-serif;
+  color: hotpink;
+}
+
+p {
+  color: greenyellow;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: greenyellow;
+}
+img {
+  float: left;
+  padding-right: 50px;
+  width: 200px;
+}
+
+.first-txt {
+  position: absolute;
+  top: 17px;
+  left: 50px;
+}
